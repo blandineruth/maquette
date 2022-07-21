@@ -1,0 +1,213 @@
+body {
+    background: linear-gradient(89.45deg, #5365A3 1.42%, rgba(118, 177, 191, 0.86) 78.2%);
+}
+
+
+.container {
+    display: flex;
+    margin: 3% 10%;
+}
+
+
+
+
+.momo {
+    padding: 75px;
+    padding-top: 50px;
+    background-color: white;
+    width: 690px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+
+.jojo {
+    background-color: rgba(27, 24, 57, 0.712);
+    padding: 15px 0px;
+    border-bottom: 1px solid rgb(230, 228, 228);
+    padding-bottom: 417px;
+    width: 290px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.cercle {
+    height: 50px;
+    width: 50px;
+    background-color: greenyellow;
+    border: 2px solid rgba(0, 0, 0, 1);
+    border-radius: 50%;
+    margin-left: 10px;
+    text-align: center;
+    border: none;
+    padding: 2%;
+
+
+
+}
+
+.cercle h1 {
+    margin-top: 10px;
+
+    color: white;
+    font-size: 30px;
+}
+
+.jojo h2 {
+    font-size: 19px;
+    margin-left: 90px;
+    margin-top: -45px;
+    color: white;
+
+}
+
+
+
+
+
+
+
+.cercle1 {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(216, 211, 211);
+    border: 2px solid rgba(0, 0, 0, 1);
+    border-radius: 50%;
+    margin-left: 10px;
+    text-align: center;
+    padding: 2%;
+    border: none;
+
+
+}
+
+.cercle1 h3 {
+    margin-top: 10px;
+    color: black;
+    font-size: 30px;
+}
+
+
+
+
+.jojo h4 {
+
+    font-size: 19px;
+    margin-left: 85px;
+    margin-top: -45px;
+    color: white;
+
+}
+
+
+
+
+.cercle2 {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(216, 211, 211);
+    border: 2px solid rgba(0, 0, 0, 1);
+    border-radius: 50%;
+    margin-left: 10px;
+    text-align: center;
+    padding: 2%;
+    border: none;
+
+
+}
+
+.cercle2 h5 {
+    margin-top: 10px;
+    color: black;
+    font-size: 30px;
+}
+
+
+
+
+.jojo h6 {
+
+    font-size: 19px;
+    margin-left: 85px;
+    margin-top: -45px;
+    color: white;
+
+}
+
+
+
+.momo header {
+    font-size: 40px;
+    color: rgba(27, 24, 57, 0.712);
+
+}
+
+.momo p {
+    font-size: 22px;
+}
+
+.last fieldset {
+    margin-left: 60px;
+    border-radius: 3px;
+}
+
+
+
+
+
+.mail {
+
+    width: 450px;
+    border-radius: 3px;
+}
+
+.mail input {
+    border: none;
+    outline: none;
+}
+
+.nam input {
+    border: none;
+    outline: none;
+}
+
+.mois {
+    width: 120px;
+    height: 50px;
+    border-radius: 3px;
+}
+
+.jour {
+    width: 120px;
+    height: 50px;
+    margin-left: 20px;
+    border-radius: 3px;
+
+}
+
+.année {
+    width: 120px;
+    height: 50px;
+    margin-left: 20px;
+    border-radius: 3px;
+
+}
+
+.ssn {
+    width: 470px;
+    height: 40px;
+    border-radius: 3px;
+}
+
+.last input {
+    border: none;
+    outline: none;
+}
+
+button {
+    background-color: rgb(64, 250, 58);
+    margin-left: 400px;
+    padding: 30px;
+    border: none;
+    border-radius: 40px;
+}
