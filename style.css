@@ -1,5 +1,7 @@
 body {
     background: linear-gradient(89.45deg, #5365A3 1.42%, rgba(118, 177, 191, 0.86) 78.2%);
+    font-family: sans-serif;
+
 }
 
 
@@ -8,11 +10,23 @@ body {
     margin: 3% 10%;
 }
 
+.momo h1 {
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.momo p {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 10px;
+}
+
 
 
 
 .momo {
-    padding: 75px;
+    padding: 40px;
     padding-top: 50px;
     background-color: white;
     width: 690px;
@@ -34,7 +48,7 @@ body {
 .cercle {
     height: 50px;
     width: 50px;
-    background-color: greenyellow;
+    background-color: #0CC03F;
     border: 2px solid rgba(0, 0, 0, 1);
     border-radius: 50%;
     margin-left: 10px;
@@ -50,14 +64,15 @@ body {
     margin-top: 10px;
 
     color: white;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .jojo h2 {
-    font-size: 19px;
+    font-size: 16px;
     margin-left: 90px;
     margin-top: -45px;
     color: white;
+    font-family: sans-serif;
 
 }
 
@@ -84,7 +99,7 @@ body {
 .cercle1 h3 {
     margin-top: 10px;
     color: black;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 
@@ -92,10 +107,11 @@ body {
 
 .jojo h4 {
 
-    font-size: 19px;
+    font-size: 16px;
     margin-left: 85px;
     margin-top: -45px;
     color: white;
+    font-family: sans-serif;
 
 }
 
@@ -119,7 +135,7 @@ body {
 .cercle2 h5 {
     margin-top: 10px;
     color: black;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 
@@ -127,10 +143,11 @@ body {
 
 .jojo h6 {
 
-    font-size: 19px;
+    font-size: 16px;
     margin-left: 85px;
     margin-top: -45px;
     color: white;
+    font-family: sans-serif;
 
 }
 
@@ -147,34 +164,39 @@ body {
 }
 
 .last fieldset {
-    margin-left: 60px;
+    margin-left: 140px;
     border-radius: 3px;
 }
 
 
 
-
-
 .mail {
 
-    width: 450px;
+    width: 530px;
     border-radius: 3px;
 }
 
 .mail input {
     border: none;
     outline: none;
+    size: 50px;
 }
 
 .nam input {
     border: none;
     outline: none;
+    size: 50px;
 }
 
 .mois {
     width: 120px;
     height: 50px;
     border-radius: 3px;
+
+}
+
+.mois img {
+    margin-right: 30px;
 }
 
 .jour {
@@ -194,9 +216,10 @@ body {
 }
 
 .ssn {
-    width: 470px;
+    width: 560px;
     height: 40px;
     border-radius: 3px;
+    border: 2px solid rgb(139, 134, 134)
 }
 
 .last input {
@@ -205,9 +228,26 @@ body {
 }
 
 button {
-    background-color: rgb(64, 250, 58);
-    margin-left: 400px;
+    background-color: #0CC03f;
+    margin-left: 500px;
     padding: 30px;
     border: none;
     border-radius: 40px;
+}
+
+.birth {
+    font-family: sans-serif;
+}
+
+.image1 {
+    border: 2px solid rgb(139, 134, 134);
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 3px;
+
+}
+
+.image1 input {
+    border: none;
+
 }
